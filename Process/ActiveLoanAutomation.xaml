@@ -156,7 +156,7 @@
       </Assign.Value>
     </Assign>
     <ui:ReadRange Range="{x:Null}" AddHeaders="True" DataTable="[LoansData]" DisplayName="Read Range Workbook Sheet Loans" sap:VirtualizedContainerService.HintSize="2273.6,88" sap2010:WorkflowViewState.IdRef="ReadRange_1" SheetName="[SheetName]" WorkbookPath="[InputFilePath]" />
-    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="IfOpenedByAppBrowser" DisplayName="Use Browser Chrome: Bot DNA Technology" sap:VirtualizedContainerService.HintSize="2273.6,4449.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="Always" ScopeGuid="a58e9875-52fe-4574-bce1-412efe089279" Version="V2" WindowResize="Maximize">
+    <uix:NApplicationCard AttachMode="ByInstance" CloseMode="IfOpenedByAppBrowser" DisplayName="Use Browser Chrome: Bot DNA Technology Webpage" sap:VirtualizedContainerService.HintSize="2273.6,4449.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="Always" ScopeGuid="a58e9875-52fe-4574-bce1-412efe089279" Version="V2" WindowResize="Maximize">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
